@@ -27,5 +27,9 @@
         "id": "archmage"
       }
     ]
-  }
+  },
+  "url": "https://github.com/lifer4700/13th-age-combat-loops/",
+  "manifest": "https://github.com/lifer4700/13th-age-combat-loops//1.0.0/module.json",
+  "download": "https://github.com/lifer4700/13th-age-combat-loops//archive/1.0.0.zip",
+  "readme": "https://github.com/lifer4700/13th-age-combat-loops//1.0.0/README.md"
 }
