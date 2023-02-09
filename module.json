@@ -16,7 +16,7 @@
   "styles": [
     "styles/13th-age-combat-loops.css"
   ],
-  "version": "0.1.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
