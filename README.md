@@ -18,5 +18,5 @@ I recommend a Fade Duration of 500 ms.
 ![Screenshot of Playlist](/assets/images/13th-age-combat-loops-screenshot.jpg "Screenshot of Playlist")
 
 ### Notes
-I chose those sound names to correspond to the track names of the Official 13th Age soundtrack, but you can use any sounds you like as long as they have these names.
+I chose these sound names to correspond to the track names of the Official 13th Age soundtrack, but you can use any sounds you like as long as they have these names.
 
