@@ -13,6 +13,7 @@ You **must** create a playlist named "13th Age Combat Loops" and populate that l
 
 Set the Playlist's "Playback Mode" to "Soundboard Only"  
 For each Sound, toggle "Loop Sound" on.  
+I recommend a Fade Duration of 500 ms.  
 
 ![Screenshot of Playlist](/assets/images/13th-age-combat-loops-screenshot.jpg "Screenshot of Playlist")
 
