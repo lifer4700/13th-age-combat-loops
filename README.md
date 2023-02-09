@@ -14,6 +14,8 @@ You **must** create a playlist named "13th Age Combat Loops" and populate that l
 Set the Playlist's "Playback Mode" to "Soundboard Only"  
 For each Sound, toggle "Loop Sound" on.  
 
+![Screenshot of Playlist](/assets/images/13th-age-combat-loops-screenshot.jpg "Screenshot of Playlist")
+
 ### Notes
 I chose those sound names to correspond to the track names of the Official 13th Age soundtrack, but you can use any sounds you like as long as they have these names.
 
