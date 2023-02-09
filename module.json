@@ -1,0 +1,31 @@
+{
+  "id": "13th-age-combat-loops",
+  "title": "13th Age Combat Loops",
+  "description": "Plays a different playlist track for each Escalation value during combat.",
+  "authors": [{
+    "name": "GMScott"
+  }],
+  "scripts": [
+    "scripts/13th-age-combat-loops.js"
+  ],
+  "languages": [{
+    "lang": "en",
+    "name": "English",
+    "path": "languages/en.json"
+  }],
+  "styles": [
+    "styles/13th-age-combat-loops.css"
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "archmage"
+      }
+    ]
+  }
+}
