@@ -16,6 +16,7 @@ Hooks.on('updateCombat', (combat, update) => {
   //  Get current Escalation level, max 6.
   let el = game.archmage.ArchmageUtility.getEscalation();
   if (el > 6) el = 6;
+  if (el < 0) el = 0;
 
   //  If the Escalation level has not changed, do nothing.
   if (el === game.settings.get("13th-age-combat-loops", "elPrevious")) return;
