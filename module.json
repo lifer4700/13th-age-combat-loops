@@ -2,7 +2,7 @@
   "id": "13th-age-combat-loops",
   "title": "13th Age Combat Loops",
   "description": "Plays a different playlist track for each Escalation value during combat.",
-  "version": "#{VERSION}#",
+  "version": "Replaced by workflow",
   "authors": [{
     "name": "GMScott"
   }],
@@ -28,9 +28,9 @@
       }
     ]
   },
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
+  "url": "Replaced by workflow",
+  "manifest": "Replaced by workflow",
+  "download": "Replaced by workflow",
   "readme": "README.md"
 }
 }
